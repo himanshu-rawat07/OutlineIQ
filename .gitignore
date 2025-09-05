@@ -1,0 +1,40 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenvs
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary or sample PDFs (optional)
+temp.pdf
+input/*.tmp.pdf
+output/*.tmp.json
+input/*.pdf
+output/*.json
+
+# Streamlit
+.streamlit/
+
+# Docker
+docker-compose.override.yml
+
+# Others
+*.sqlite3

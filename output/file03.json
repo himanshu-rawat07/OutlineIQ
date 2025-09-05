@@ -1,1355 +1,1618 @@
 {
   "title": "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
-  "outline": [
+  "headings": [
     {
       "level": "H2",
-      "text": "Ontario\u2019s Libraries",
-      "page": 1
+      "text": "Ontario’s Libraries",
+      "page": 1,
+      "font_size": 15.96
     },
     {
       "level": "H2",
       "text": "Working Together",
-      "page": 1
+      "page": 1,
+      "font_size": 15.96
     },
     {
       "level": "H1",
       "text": "RFP: R",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "RFP: R",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "RFP: R",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "RFP: Request f",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "quest f",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "quest f",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "quest for Pr",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "r Pr",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "r Pr",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "r Proposal",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "oposal",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "oposal",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "oposal",
-      "page": 1
+      "page": 1,
+      "font_size": 32.04
     },
     {
       "level": "H1",
       "text": "To Present a Proposal for Developing",
-      "page": 1
+      "page": 1,
+      "font_size": 24.0
     },
     {
       "level": "H1",
       "text": "the Business Plan for the Ontario",
-      "page": 1
+      "page": 1,
+      "font_size": 24.0
     },
     {
       "level": "H1",
       "text": "Digital Library",
-      "page": 1
+      "page": 1,
+      "font_size": 24.0
     },
     {
       "level": "H1",
       "text": "March 21, 2003",
-      "page": 1
+      "page": 1,
+      "font_size": 20.04
     },
     {
       "level": "H1",
-      "text": "Ontario\u2019s Digital Library",
-      "page": 2
+      "text": "Ontario’s Digital Library",
+      "page": 2,
+      "font_size": 20.04
     },
     {
       "level": "H2",
-      "text": "A Critical Component for Implementing Ontario\u2019s Road Map to",
-      "page": 2
+      "text": "A Critical Component for Implementing Ontario’s Road Map to",
+      "page": 2,
+      "font_size": 15.96
     },
     {
       "level": "H2",
       "text": "Prosperity Strategy",
-      "page": 2
+      "page": 2,
+      "font_size": 15.96
     },
     {
       "level": "H3",
       "text": "Summary",
-      "page": 2
+      "page": 2,
+      "font_size": 12.0
     },
     {
       "level": "H3",
-      "text": "The purpose of this  Request for Proposal  ( RFP ) is to invite firms and/or consultants to",
-      "page": 2
+      "text": "The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "present a proposal for developing the business plan for the  Ontario Digital Library (ODL).",
-      "page": 2
+      "text": "present a proposal for developing the business plan for the Ontario Digital Library (ODL).",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The ODL will deliver high-quality library electronic content to all Ontario residents in order to",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "assist people as they learn, work, and enhance their quality of life. The business plan to be",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "developed is to document and clearly communicate:",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "how the ODL will be implemented, including the timeline",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the financial plan for the implementation",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "revenues, etc.",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "a financial forecast for the succeeding 2 operating years",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the services and products to be delivered by the ODL",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "how the ODL will operate and be managed following the implementation",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "who will be involved, and what their role/responsibility will be, for both the",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "implementation and operational stages",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the marketing and communications plan for the ODL",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "This business plan must be completed and approved by the ODL Steering Committee no",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "later than September 30, 2003",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Timeline:",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Those firms/consultants intended to submit a proposal to this RFP must indicate their",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by  April 11 th .",
-      "page": 2
+      "text": "intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 th .",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "( lmoore@accessola.com ), Executive Director, The Ontario Library Association,  100 Lombard",
-      "page": 2
+      "text": "( lmoore@accessola.com ), Executive Director, The Ontario Library Association, 100 Lombard",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "St., Suite 303, Toronto, ON  M5C 1M3.  Proposals must be received by  Noon on Monday,",
-      "page": 2
+      "text": "St., Suite 303, Toronto, ON M5C 1M3. Proposals must be received by Noon on Monday,",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "April 21, 2003.",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Those proposals that are short-listed will be invited to discuss their proposal during the week",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "of  April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",
-      "page": 2
+      "text": "of April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "interview will be expected to discuss the project and their approach with the selection",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "committee .",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Contracts with the firm/consultant will be signed the week of  May 5, 2003  with the work to",
-      "page": 2
+      "text": "Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "commence as soon as possible thereafter.",
-      "page": 2
+      "page": 2,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Please note that we reserve the right not to select any of the submitted proposals and may",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "seek further response to these Terms of Reference.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "If you require further information or have any questions, please contact Michael Ridley by e-",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "mail ( mridley@uoguelph.ca )  only  by  3:00 p.m. on Friday April 18th . All questions and",
-      "page": 3
+      "text": "mail ( mridley@uoguelph.ca ) only by 3:00 p.m. on Friday April 18th . All questions and",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "responses will be shared with those who have indicated that they will be submitting a",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Ridley by April 11 th  that they will be submitting a proposal will not receive any further",
-      "page": 3
+      "text": "Ridley by April 11 th that they will be submitting a proposal will not receive any further",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "information or question responses.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Background",
-      "page": 3
+      "page": 3,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "First, some background on the ODL. For the last two years the Ontario Library Association",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Digital Library (ODL). These stakeholders include Ontario\u2019s 5000+ public libraries, university,",
-      "page": 3
+      "text": "Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "college, and school libraries, as well as Ontario government ministries.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Libraries that serve very different clientele recognize that by working together they can create",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "seamless access to quality electronic library services. Through the ODL, students will be",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "able to explore a topic at school, use the same child-safe resources after school (either at",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "home or at a public library), enter college or university with a knowledge of how to use",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "electronic resources that are still available and then, after graduation, continue to use these",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "skills and resources at work or at home.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We are moving into a period of convergence. With convergence we no longer have to license",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "commercial products as individual libraries or institutions. We can work together to spend our",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "money wisely. The provincial government has made this possible by working hard to provide",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "all Ontarians with a stable, high-speed communications infrastructure. While there is still a",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "great deal of work needed to improve this infrastructure, libraries are beginning to plan how",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "best to exploit communications technology. We can reduce barriers to access and create the",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "content infrastructure needed to support a knowledge society.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "The concept of an ODL is a key element in  The Roadmap to Prosperity , a strategic plan to",
-      "page": 3
+      "text": "The concept of an ODL is a key element in The Roadmap to Prosperity , a strategic plan to",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "envision and attain Ontario\u2019s economic goal prepared by the Ontario Jobs and Investment",
-      "page": 3
+      "text": "envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Board. The OJIB strategic plan recommends an electronic library to \u201cconnect students to new",
-      "page": 3
+      "text": "Board. The OJIB strategic plan recommends an electronic library to “connect students to new",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "workplaces, new sources of information and applied learning opportunities\u201d. The ODL will do",
-      "page": 3
+      "text": "workplaces, new sources of information and applied learning opportunities”. The ODL will do",
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "that and much more. The ODL will connect students to electronic information, and will also",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "leverage this investment to help connect all citizens to the electronic information they need as",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "they make decisions, solve problems and enhance their quality of life.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Libraries have long been a key delivery point for public services. The ODL will allow that",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "delivery point to move closer to citizens, into the smallest of libraries and even into living",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "rooms.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Libraries have a long tradition of using a practical, consultative approach to solving problems,",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "and of learning from others. The ODL is a very practical solution to various problems.",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "leading edge for Ontario but several jurisdictions have forged the path with collaborative",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",
-      "page": 3
+      "page": 3,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "with its members to promote universal access to materials and resources in more than 250",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "not include elementary or secondary schools. However, the timeline and funding we are",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "proposing for ODL is comparable to TAL\u2018s experience. TAL\u2019s business planning took several",
-      "page": 4
+      "text": "proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several",
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "years. TAL\u2019s implementation plan was supported by 8 million dollars in provincially shared",
-      "page": 4
+      "text": "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Alberta\u2019s population 30% of Ontario\u2019s, TAL does not include elementary or secondary",
-      "page": 4
+      "text": "Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "learn from TAL\u2019s practices, the scope of planning and implementing ODL is much larger than",
-      "page": 4
+      "text": "learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "TAL.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The ODL will be a partnership-based organization providing seamless electronic information",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "services and resources to the citizens of Ontario. It will use local libraries as the entry point for",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "common resources The ODL will recognize the unique responsibilities and needs of public",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "libraries, school libraries, college and university libraries and special libraries. The ODL",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "envisions a digital network of information resources, allowing members to collaborate when",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "there is mutual benefit and to support the common mandates of local libraries.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The principles which will define and guide the ODL are:",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Equitable access for all Ontarians:",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will bring consistent, high-quality electronic resources and services to 10 million",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Ontario citizens",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will eliminate barriers to the access to information and create more consistent",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "services for library clients.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Shared decision-making and accountability:",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "We will facilitate consensus among members regarding ODL\u2019s portfolio of electronic",
-      "page": 4
+      "text": "We will facilitate consensus among members regarding ODL’s portfolio of electronic",
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "licenses and services",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will balance the interests and realities of small and large as well as rich and poor",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "communities and institutions.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Shared governance structure:",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will share decision-making in order to enable the people we serve.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will work based on an underlying assumption of trust and synergy.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Shared funding:",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "and put Ontario dollars to work for everyone .",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will be willing to pool talents and dollars in order to provide common services that are",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "truly greater than those that can be maintained by individual institutions.",
-      "page": 4
+      "page": 4,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Local points of entry:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "We will provide the licenses, infrastructure, services and support that enable local",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "libraries to provide exceptional services to their clientele. ODL will focus on support,",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "providing the underpinning, not overshadowing.",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Services envisioned for the ODL\u2019s include:",
-      "page": 5
+      "text": "Services envisioned for the ODL’s include:",
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Access:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "to the \u201cdeep\u201d web (i.e. Commercial, purchased electronic services)",
-      "page": 5
+      "text": "to the “deep” web (i.e. Commercial, purchased electronic services)",
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to credible web sites and electronic resources",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to digital government information",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to local digital collections",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Guidance and Advice:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to support e-learning",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to support citizens, in real-time, as they try to use electronic resources",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to assist citizens as they use web-links",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Training:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "for library workers",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "for the general public",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Provincial Purchasing & Licensing:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "of electronic content on a consortia basis for all member libraries",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Technological Support:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "of common standards for the preservation and archiving local digital content",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "of a common interface to ODL resources and services that can be imbedded in local",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "library web sites",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "What could the ODL really mean?",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "For each Ontario citizen it could mean:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "One local point of entry to access seamless electronic library services and",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "resources for their personal, educational and professional needs;",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Access to credible, high-quality, user-friendly electronic services through their",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "community, school, or academic library;",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Confidence that the electronic services and sources they \u2013 and their children",
-      "page": 5
+      "text": "Confidence that the electronic services and sources they – and their children",
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "\u2013 are using are safe, valid, and bringing them both global and local",
-      "page": 5
+      "text": "– are using are safe, valid, and bringing them both global and local",
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "perspectives;",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Electronic information and tools that enhance job skills and the learning",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "experience",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "For each Ontario student it could mean:",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "One local point of entry to quality, curriculum- based electronic information",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "resources and services",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Connection to their individual educational environment, whether at the",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "elementary, secondary or post-secondary levels",
-      "page": 5
+      "page": 5,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Confidence that the services and resources people are using are credible,",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "available when they need them and adaptable to different learning styles",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "For each Ontario library it could mean:",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "One point of entry for themselves and their clientele to quality electronic",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "resources and services that support and enhance their collections, programs",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "and services",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The opportunity to show case their local community, collections, services, and",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "expertise",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The opportunity to gain from the provincial, collaborative partnership in order",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to provide a seamless gateway to digital resources and services",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "For the Ontario government it could mean:",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "A  point of entry to information services and resources for all Ontario citizens,",
-      "page": 6
+      "text": "A point of entry to information services and resources for all Ontario citizens,",
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "connecting to portal initiatives .",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Support of the Ontario E-Learning strategy through a collaborative digital",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "library initiative that positions Ontario on the global e-learning scene",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Improved access and flexibility for all students at all ages and stages",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "(supports Ontario\u2019s lifelong learning strategy)",
-      "page": 6
+      "text": "(supports Ontario’s lifelong learning strategy)",
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The opportunity to address emerging job skills shortages and facilitate school",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "to work and job to job transitions with the necessary information and",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "knowledge supports and tools",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "ODL will be an incorporated non-profit organization governed by a Board of Directors elected",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "by a voting membership. The Board will include representatives from all stakeholders. We",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "envision a governance model similar to that prepared for the province\u2019s ORION network.",
-      "page": 6
+      "text": "envision a governance model similar to that prepared for the province’s ORION network.",
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "More information regarding the envisioned phasing, funding and resources required for the",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "ODL can be found in the appendixes.",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The Business Plan to be Developed",
-      "page": 6
+      "page": 6,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "The business plan which needs to be developed for the ODL must be a formal business plan",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "that documents and clearly communicates the ODL\u2019s services, funding and governance",
-      "page": 6
+      "text": "that documents and clearly communicates the ODL’s services, funding and governance",
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "2007. The planning process must also secure the full commitment of all stakeholders, as",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "represented on the Steering Committee.",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Specifically, the business plan must include:",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "how the ODL will be implemented, including the timeline",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the financial plan for the implementation",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "revenues, etc.",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "a financial forecast for the succeeding 2 operating years",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the services and products to be delivered by the ODL",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "how the ODL will operate and be managed following the implementation",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "who will be involved, and what their role/responsibility will be, for both the",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "implementation and operational stages",
-      "page": 6
+      "page": 6,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the marketing and communications plan for the ODL",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the commitment of all stakeholders to their responsibilities",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The process of developing this business plan must be extremely consultative to ensure that",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "all stakeholders are engaged in creating a synergistic ODL organization.  The proposal must",
-      "page": 7
+      "text": "all stakeholders are engaged in creating a synergistic ODL organization. The proposal must",
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "indicate how this consultative process will be approached.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The business plan for the ODL must address significant issues. There are, for example,",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "enormous differences in the financial resources available to libraries mandated to provide",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "similar services. Some post-secondary and public libraries, particularly those in large urban",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "areas, have the facilities, funding and technological infrastructure necessary to service their",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "patrons with electronic services and resources.  Many others, particularly in rural regions, do",
-      "page": 7
+      "text": "patrons with electronic services and resources. Many others, particularly in rural regions, do",
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "not.  The proposal must indicate how these issues will be approached.",
-      "page": 7
+      "text": "not. The proposal must indicate how these issues will be approached.",
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Milestones",
-      "page": 7
+      "page": 7,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "1) A preliminary report will be issued during June 2003.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "2) It is expected that an Interim Report, suitable for distribution to the broader library",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "community will be available by August 1, 2003 and that there will be an opportunity",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "for responses to be evaluated.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "3) The business plan must be completed and approved by the ODL Steering Committee",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "no later than September 30, 2003.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Approach and Specific Proposal Requirements",
-      "page": 7
+      "page": 7,
+      "font_size": 12.0
     },
     {
       "level": "H3",
-      "text": "The firm/consultant  (or proposed team of consultants)  will be expected to work closely with",
-      "page": 7
+      "text": "The firm/consultant (or proposed team of consultants) will be expected to work closely with",
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "the ODL Steering Committee. Terms of reference for the Committee are in the appendix.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Given the consultative nature of this business planning process, the firm/consultant will also",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "be expected to travel and communicate regularly with various stakeholders as well as with",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "electronic resource publishers/vendors.",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "The proposal should include the following information:",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "a) name of the firm/consultant",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "b) names of those individuals who will be engaged in this project, their specific",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "responsibilities on this project and relevant experience/qualifications",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "c) description of similar engagements that highlight the firm\u2019s experience in business",
-      "page": 7
+      "text": "c) description of similar engagements that highlight the firm’s experience in business",
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "planning and building stakeholder commitment",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "d) references with details of work completed for these references",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "e) description of the approach that will be used for completing the business plan,",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "including a timeline",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "structure",
-      "page": 7
+      "page": 7,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Evaluation and Awarding of Contract",
-      "page": 8
+      "page": 8,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "The contract will be awarded to the bidder whose submission offers the best value; the contract will",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "any of the bidders responding to this RFP and we may seek further response.",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Specifically, proposals will be evaluated proposals according to the following criteria:",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Quality of the proposal /approach outlined for undertaking the business planning process",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Demonstrated experience",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Cost, including expenses",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Timeline and projected completion date",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Other relevant factors as determined by the ODL Steering Committee",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "(mridley@uoguelph.ca).",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
       "text": "Committee.",
-      "page": 8
+      "page": 8,
+      "font_size": 11.04
     },
     {
       "level": "H3",
-      "text": "Appendix A:  ODL Envisioned Phases & Funding",
-      "page": 9
+      "text": "Appendix A: ODL Envisioned Phases & Funding",
+      "page": 9,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "Funding Source",
-      "page": 10
+      "page": 10,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "2007",
-      "page": 10
+      "page": 10,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "2017",
-      "page": 10
+      "page": 10,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "Appendix B:",
-      "page": 11
+      "page": 11,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "ODL Steering Committee Terms of Reference",
-      "page": 11
+      "page": 11,
+      "font_size": 12.0
     },
     {
       "level": "H3",
-      "text": "\u2022",
-      "page": 12
+      "text": "•",
+      "page": 12,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "meetings plus 2-3 working days per month on related activities .",
-      "page": 12
+      "page": 12,
+      "font_size": 12.0
     },
     {
       "level": "H3",
       "text": "Appendix C:",
-      "page": 14
+      "page": 14,
+      "font_size": 12.0
     },
     {
       "level": "H3",
-      "text": "ODL\u2019s Envisioned Electronic Resources",
-      "page": 14
+      "text": "ODL’s Envisioned Electronic Resources",
+      "page": 14,
+      "font_size": 12.0
     }
-  ]
+  ],
+  "metadata": {
+    "pages_with_images": [
+      1
+    ],
+    "links": [
+      {
+        "page": 2,
+        "uri": "mailto:lmoore@accessola.com"
+      },
+      {
+        "page": 2,
+        "uri": "mailto:mridley@uoguelph.ca"
+      },
+      {
+        "page": 3,
+        "uri": "mailto:mridley@uoguelph.ca"
+      },
+      {
+        "page": 8,
+        "uri": "mailto:mridley@uoguelph.ca"
+      }
+    ],
+    "image_previews": [
+      {
+        "page": 1,
+        "preview": "data:image/png;base64,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"
+      }
+    ]
+  }
 }
